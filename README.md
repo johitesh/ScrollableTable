@@ -14,13 +14,13 @@ Scrollable table app is an app which serves the following purpose:
 6- App supports portrait as well as landscape mode.<br />
 7- App has feasibility to expand and supports future changes like displaying image along with label but sampling adding a outlet in Custom cell class and adding supporting code in controller class.<br />
 
-# • Potrait view minimized state:
+• Potrait view minimized state:<br />
 <img src="https://github.com/joshihitesh/ScrollableTable/blob/master/AppImages/potrait.png" width="300">
-# • Potrait view, row with large Text:
+• Potrait view, expanded row with large Text:<br />
 <img src="https://github.com/joshihitesh/ScrollableTable/blob/master/AppImages/potrait_row_tapped.png" width="300">
-# • Potrait view, row with less Text:
+• Potrait view, expanded row with less Text:<br />
 <img src="https://github.com/joshihitesh/ScrollableTable/blob/master/AppImages/potrait_row_tapped_mindata.png" width="300">
-# • Landscape view
+• Landscape view<br />
 <img src="https://github.com/joshihitesh/ScrollableTable/blob/master/AppImages/landscape.png" width="300">
 
 # Steps to run project.<br />
