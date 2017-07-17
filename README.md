@@ -15,13 +15,13 @@ Scrollable table app is an app which serves the following purpose:
 7- App has feasibility to expand and supports future changes like displaying image along with label but sampling adding a outlet in Custom cell class and adding supporting code in controller class.<br />
 
 • Potrait view minimized state:<br />
-<img src="https://github.com/joshihitesh/ScrollableTable/blob/master/AppImages/potrait.png" width="300">
+<img src="https://github.com/joshihitesh/ScrollableTable/blob/master/AppImages/potrait.png" width="300"><br />
 • Potrait view, expanded row with large Text:<br />
-<img src="https://github.com/joshihitesh/ScrollableTable/blob/master/AppImages/potrait_row_tapped.png" width="300">
+<img src="https://github.com/joshihitesh/ScrollableTable/blob/master/AppImages/potrait_row_tapped.png" width="300"><br />
 • Potrait view, expanded row with less Text:<br />
-<img src="https://github.com/joshihitesh/ScrollableTable/blob/master/AppImages/potrait_row_tapped_mindata.png" width="300">
+<img src="https://github.com/joshihitesh/ScrollableTable/blob/master/AppImages/potrait_row_tapped_mindata.png" width="300"><br />
 • Landscape view<br />
-<img src="https://github.com/joshihitesh/ScrollableTable/blob/master/AppImages/landscape.png" width="300">
+<img src="https://github.com/joshihitesh/ScrollableTable/blob/master/AppImages/landscape.png" width="300"><br />
 
 # Steps to run project.<br />
 •	Download or clone the project from Github<br />
